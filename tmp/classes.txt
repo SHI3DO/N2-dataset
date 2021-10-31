@@ -13,3 +13,6 @@ ribs
 pulled pork
 hamburger
 cavity
+traffic light
+tree
+traffic sign
