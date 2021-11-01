@@ -1,9 +1,0 @@
-train
-traffic light
-traffic sign
-person
-motorcycle
-building
-car
-tree
-tank
